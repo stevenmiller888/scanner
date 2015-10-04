@@ -1,0 +1,17 @@
+{
+  "name": "network-scanner",
+  "description": "A cross-platform scanner for wireless networks",
+  "author": "Steven Miller",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenmiller888/scanner"
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^1.6.0",
+    "mocha": "2.x"
+  }
+}
