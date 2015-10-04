@@ -25,6 +25,12 @@ scanner.scan(function(err, networks) {
 });
 ```
 
+## Note
+
+If you are running Linux, and you do not have `wireless-tools` installed, then install them with:
+
+`apt-get install wireless-tools`
+
 ## License
 
 [MIT](https://tldrlegal.com/license/mit-license)
